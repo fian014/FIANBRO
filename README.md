@@ -4,19 +4,25 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+## Commands
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> pkg update && pkg upgrade
+> apt-get update && apt-get upgrade
+> pkg install git
+> pkg install bash
+> git clone https://github.com/fian014/FIANBRO
+> cd FIANBRO
+> bash install.sh
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Running
+for termux
+
 
 ```bash
-> cd botwasapv4
-> bash install.sh
+node index.js
+
 ```
 
 ### Usage
@@ -129,7 +135,7 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/6285704617188)
 ### Donate
 * [`Saweria`](https://saweria.co/ampibibot)
 * [`Dana : +62895710073737`]

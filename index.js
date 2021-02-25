@@ -33,15 +33,15 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Fian014\n' 
-            + 'ORG: Pengembang PATRICK BOT;\n' 
+            + 'FN:Patrick\n' 
+            + 'ORG: Pengembang Fian014;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6285704617188:+62 857-0461-7188\n' 
             + 'END:VCARD' 
 prefix = '#'
 blocked = []   
 limitawal = 30
 memberlimit = 2
-cr = '*RANDAL BOT*'
+cr = '*Fian014*'
 
 /******** OWNER NUMBER**********/
 const ownerNumber = ["6285704617188@s.whatsapp.net","6285233590665@s.whatsapp.net"] 
